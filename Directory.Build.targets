@@ -8,7 +8,7 @@
   <PropertyGroup>
     <RestoreAdditionalProjectSources>
       https://nuget.bepinex.dev/v3/index.json;
-      https://nuget.windows10ce.com/nuget/v3/index.json
+      <!-- https://nuget.windows10ce.com/nuget/v3/index.json -->
     </RestoreAdditionalProjectSources>
   </PropertyGroup>
 

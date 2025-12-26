@@ -7,8 +7,8 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "nazo"
 name = "PerspectiveSwitcher"
-description = "TODO: Fill in short mod description."
-websiteUrl = "" # TODO: Add a link to your mod repository here (optional)
+description = "Enhanced camera mod with First, Second, and Third person perspectives. Based on peak-thirdperson with second-person view support and improved architecture. Cycle through perspectives with V key, zoom with mouse wheel."
+websiteUrl = "https://github.com/nazo-x1/PerspectiveSwitcher"
 containsNsfwContent = false
 
 [package.dependencies]
