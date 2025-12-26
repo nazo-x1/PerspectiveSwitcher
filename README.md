@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.1-blue.svg)
 ![License](https://img.shields.io/badge/license-GPLv3-green.svg)
 ![PEAK](https://img.shields.io/badge/game-PEAK-orange.svg)
 
