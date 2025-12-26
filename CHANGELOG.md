@@ -5,7 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.1.0] - 2025-01-XX
+## [0.1.1] - 2025-12-26
+
+### Changed
+- 🎨 Updated project logo/icon
+
+---
+
+## [0.1.0] - 2025-12-26
 
 ### Added
 - ✨ Initial release of PerspectiveSwitcher
@@ -35,7 +42,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## English
 
-### [0.1.0] - 2025-01-XX
+### [0.1.1] - 2025-12-26
+
+#### Changed
+- 🎨 Updated project logo/icon
+
+---
+
+### [0.1.0] - 2025-12-26
 
 #### Added
 - ✨ Initial release of PerspectiveSwitcher
@@ -65,7 +79,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 中文
 
-### [0.1.0] - 2025-01-XX
+### [0.1.1] - 2025-12-26
+
+#### 变更
+- 🎨 更新项目 logo/图标
+
+---
+
+### [0.1.0] - 2025-12-26
 
 #### 新增
 - ✨ PerspectiveSwitcher 首次发布
