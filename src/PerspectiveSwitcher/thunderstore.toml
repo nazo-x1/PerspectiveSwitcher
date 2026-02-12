@@ -13,6 +13,7 @@ containsNsfwContent = false
 
 [package.dependencies]
 BepInEx-BepInExPack_PEAK = "5.4.2403"
+Hamunii-AutoHookGenPatcher = "1.0.9"
 
 [build]
 icon = "../../icon.png"
