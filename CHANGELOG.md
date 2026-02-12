@@ -5,14 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.1.1] - 2025-12-26
+## [0.1.2] - 2026-02-12
 
 ### Changed
-- 🎨 Updated project logo/icon
+- 📝 Updated README with new installation recommendations
+- ⭐ Prioritized GALE Mod Manager as recommended installation method
+- 🔧 Added r2modman as secondary installation option
+- 📦 Added AutoHookGenPatcher as a dependency
 
 ---
 
-## [0.1.0] - 2025-12-26
+## [0.1.1] - 2025-12-26
 
 ### Added
 - ✨ Initial release of PerspectiveSwitcher
@@ -41,6 +44,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 ## English
+
+### [0.1.2] - 2026-02-12
+
+#### Changed
+- 📝 Updated README with new installation recommendations
+- ⭐ Prioritized GALE Mod Manager as recommended installation method
+- 🔧 Added r2modman as secondary installation option
+- 📦 Added AutoHookGenPatcher as a dependency
+
+---
 
 ### [0.1.1] - 2025-12-26
 
@@ -78,6 +91,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 ## 中文
+
+### [0.1.2] - 2026-02-12
+
+#### 变更
+- 📝 更新了安装推荐说明
+- ⭐ 优先推荐 GALE Mod Manager
+- 🔧 添加 r2modman 作为次选安装方式
+- 📦 添加 AutoHookGenPatcher 依赖项
+
+---
 
 ### [0.1.1] - 2025-12-26
 

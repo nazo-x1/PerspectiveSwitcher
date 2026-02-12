@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-0.1.1-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.2-blue.svg)
 ![License](https://img.shields.io/badge/license-GPLv3-green.svg)
 ![PEAK](https://img.shields.io/badge/game-PEAK-orange.svg)
 
@@ -66,16 +66,27 @@
 
 1. **Prerequisites**
    - [BepInEx Pack for PEAK](https://thunderstore.io/c/peak/p/BepInEx-BepInExPack_PEAK/) (v5.4.2403 or later)
+   - [AutoHookGenPatcher](https://thunderstore.io/c/peak/p/Hamunii-AutoHookGenPatcher/) (v1.0.9)
 
-2. **Install via Thunderstore Mod Manager** (Recommended)
-   - Open Thunderstore Mod Manager
+2. **Install via GALE Mod Manager** (Recommended)
+   - Download [GALE](https://galemodmanager.com/)
+   - Open GALE and select PEAK
    - Search for "PerspectiveSwitcher"
-   - Click "Install with dependencies"
+   - Click "Install"
+   - Dependencies will be installed automatically
 
-3. **Manual Installation**
+3. **Install via r2modman**
+   - Download [r2modman](https://github.com/ebkr/r2modman)
+   - Select PEAK as the game
+   - Search for "PerspectiveSwitcher"
+   - Click "Install"
+   - Dependencies will be installed automatically
+
+4. **Manual Installation**
    - Download the latest release from [Thunderstore](https://thunderstore.io)
    - Extract the zip file
    - Copy the `plugins` folder contents to `PEAK/BepInEx/plugins/`
+   - Ensure you have [BepInEx Pack for PEAK](https://thunderstore.io/c/peak/p/BepInEx/BepInExPack_PEAK/) and [AutoHookGenPatcher](https://thunderstore.io/c/peak/p/Hamunii/AutoHookGenPatcher/) installed
    - Launch the game
 
 ### ⚙️ Configuration
@@ -139,6 +150,7 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3) - see
 
 ### 🔗 Links
 
+- [GALE Mod Manager](https://galemodmanager.com/)
 - [Thunderstore Page](https://thunderstore.io/c/peak/p/nazo-PerspectiveSwitcher/)
 - [GitHub Repository](https://github.com/nazo-x1/PerspectiveSwitcher)
 - [Original Mod](https://github.com/EvaisaDev/peak-thirdperson)
@@ -196,16 +208,27 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3) - see
 
 1. **前置要求**
    - [PEAK 的 BepInEx 包](https://thunderstore.io/c/peak/p/BepInEx-BepInExPack_PEAK/) (v5.4.2403 或更高版本)
+   - [AutoHookGenPatcher](https://thunderstore.io/c/peak/p/Hamunii-AutoHookGenPatcher/) (v1.0.9)
 
-2. **通过 Thunderstore Mod Manager 安装**（推荐）
-   - 打开 Thunderstore Mod Manager
+2. **通过 GALE Mod Manager 安装**（推荐）
+   - 下载 [GALE](https://galemodmanager.com/)
+   - 打开 GALE 并选择 PEAK
    - 搜索 "PerspectiveSwitcher"
-   - 点击 "Install with dependencies"
+   - 点击 "Install"
+   - 依赖项将自动安装
 
-3. **手动安装**
+3. **通过 r2modman 安装**
+   - 下载 [r2modman](https://github.com/ebkr/r2modman)
+   - 选择 PEAK 作为游戏
+   - 搜索 "PerspectiveSwitcher"
+   - 点击 "Install"
+   - 依赖项将自动安装
+
+4. **手动安装**
    - 从 [Thunderstore](https://thunderstore.io) 下载最新版本
    - 解压 zip 文件
    - 将 `plugins` 文件夹内容复制到 `PEAK/BepInEx/plugins/`
+   - 确保已安装 [PEAK 的 BepInEx 包](https://thunderstore.io/c/peak/p/BepInEx-BepInExPack_PEAK/) 和 [AutoHookGenPatcher](https://thunderstore.io/c/peak/p/Hamunii-AutoHookGenPatcher/)
    - 启动游戏
 
 ### ⚙️ 配置
@@ -269,6 +292,7 @@ SwitchPerspective = V
 
 ### 🔗 相关链接
 
+- [GALE Mod Manager](https://galemodmanager.com/)
 - [Thunderstore 页面](https://thunderstore.io/c/peak/p/nazo-PerspectiveSwitcher/)
 - [GitHub 仓库](https://github.com/nazo-x1/PerspectiveSwitcher)
 - [原始模组](https://github.com/EvaisaDev/peak-thirdperson)
