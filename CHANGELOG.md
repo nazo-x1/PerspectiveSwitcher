@@ -17,6 +17,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.1] - 2025-12-26
 
+### Changed
+- 🎨 Updated project logo/icon
+
+---
+
+## [0.1.0] - 2025-12-26
+
 ### Added
 - ✨ Initial release of PerspectiveSwitcher
 - 🎮 Support for three camera perspectives: First Person, Second Person, and Third Person
@@ -36,53 +43,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Enhanced camera interpolation and smoothing
 
 ### Technical
-- 📦 Built on BepInEx framework
-- 🔌 Compatible with PEAK game
-- 🎨 Clean, modular codebase for easy extension
-- 🤖 AI-assisted code implementation with architecture design provided by author
-
----
-
-## English
-
-### [0.1.2] - 2026-02-12
-
-#### Changed
-- 📝 Updated README with new installation recommendations
-- ⭐ Prioritized GALE Mod Manager as recommended installation method
-- 🔧 Added r2modman as secondary installation option
-- 📦 Added AutoHookGenPatcher as a dependency
-
----
-
-### [0.1.1] - 2025-12-26
-
-#### Changed
-- 🎨 Updated project logo/icon
-
----
-
-### [0.1.0] - 2025-12-26
-
-#### Added
-- ✨ Initial release of PerspectiveSwitcher
-- 🎮 Support for three camera perspectives: First Person, Second Person, and Third Person
-- 🔄 Cycle through perspectives with a single key press (default: V)
-- 🖱️ Mouse wheel zoom support for Second and Third person modes
-- 🛡️ Collision detection to prevent camera clipping through walls
-- ⚙️ Configurable toggle key via BepInEx configuration
-- 🎯 Proper handling of wall climbing mechanics in all perspectives
-- 📊 Respects game's mouse and controller sensitivity settings
-- 🏗️ Refactored code architecture using adapter pattern for better maintainability
-
-#### Enhanced
-- 🚀 Based on [EvaisaDev/peak-thirdperson](https://github.com/EvaisaDev/peak-thirdperson) with significant improvements:
-  - Added Second Person perspective support
-  - Improved code organization and structure
-  - Better separation of concerns with adapter pattern
-  - Enhanced camera interpolation and smoothing
-
-#### Technical
 - 📦 Built on BepInEx framework
 - 🔌 Compatible with PEAK game
 - 🎨 Clean, modular codebase for easy extension
