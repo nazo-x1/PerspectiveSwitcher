@@ -309,9 +309,12 @@ public partial class Plugin : BaseUnityPlugin
     private void MainCameraMovement_LateUpdate(On.MainCameraMovement.orig_LateUpdate orig, MainCameraMovement self)
     {
         // 统一前处理：按键切换、灵敏度初始化等
-        if (Input.GetKeyDown(configSwitchPerspective.Value))
+        if (GUIManager.instance != null && !GUIManager.instance.windowBlockingInput)
         {
-            SwitchToNextMode();
+            if (Input.GetKeyDown(configSwitchPerspective.Value))
+            {
+                SwitchToNextMode();
+            }
         }
 
         EnsureSettings();
