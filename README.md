@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-0.1.2-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.3-blue.svg)
 ![License](https://img.shields.io/badge/license-GPLv3-green.svg)
 ![PEAK](https://img.shields.io/badge/game-PEAK-orange.svg)
 
@@ -139,6 +139,8 @@ You can change the toggle key by editing this file or using BepInEx Configuratio
   - **Code Implementation**: AI-assisted development
   - **Original Third-Person Implementation**: EvaisaDev
   - **Second-Person View & Enhancements**: nazo
+
+- **Contributors**: [Y0nxy](https://github.com/Y0nxy)
 
 ### 🐛 Known Issues
 
@@ -281,6 +283,8 @@ SwitchPerspective = V
   - **代码实现**：AI 辅助开发
   - **原始第三人称实现**：EvaisaDev
   - **第二人称视角和增强功能**：nazo
+
+- **贡献者**：[Y0nxy](https://github.com/Y0nxy)
 
 ### 🐛 已知问题
 
